@@ -2,3 +2,4 @@ testjk
 
 natsuka=chanko
 
+no natsukajk
